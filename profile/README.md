@@ -22,7 +22,7 @@ A small model that runs offline and turns plain words into scene-building steps 
 
 - [Product page](https://slm4apps.github.io/maris3d/)
 - [Code and add-on](https://github.com/slm4apps/maris3d)
-- [Model on Hugging Face](https://huggingface.co/slm4apps/Maris3D-SLM-Blender-0.5B-GGUF)
+- [Model on Hugging Face](https://huggingface.co/slm4apps/Maris3D-Blender)
 
 ## Why small models
 
